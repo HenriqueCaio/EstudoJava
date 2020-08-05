@@ -1,4 +1,4 @@
-package com.company;
+package com.company.exemplos;
 
 public class BalancoTrimestral {
     public static void main(String[] args) {

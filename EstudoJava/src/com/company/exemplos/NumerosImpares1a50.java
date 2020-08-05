@@ -1,3 +1,5 @@
+package com.company.exemplos;
+
 public class NumerosImpares1a50 {
     public static void main(String[] args) {
 

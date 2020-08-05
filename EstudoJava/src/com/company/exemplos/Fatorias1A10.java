@@ -1,6 +1,6 @@
-package com.company;
+package com.company.exemplos;
 
-public class Fatorias1A10 {
+ public class Fatorias1A10 {
 
     public static void main(String[] args) {
 

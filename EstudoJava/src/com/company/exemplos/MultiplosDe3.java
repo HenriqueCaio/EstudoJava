@@ -1,4 +1,4 @@
-package com.company;
+package com.company.exemplos;
 
 public class MultiplosDe3 {
 

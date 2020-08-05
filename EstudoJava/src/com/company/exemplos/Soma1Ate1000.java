@@ -1,4 +1,4 @@
-package com.company;
+package com.company.exemplos;
 
 public class Soma1Ate1000 {
 
