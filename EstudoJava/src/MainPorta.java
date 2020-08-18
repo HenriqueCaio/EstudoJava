@@ -14,6 +14,5 @@ public class MainPorta {
         porta.mostra();
         boolean aberto = porta.estaAberta();
         System.out.println(aberto);
-
     }
 }
