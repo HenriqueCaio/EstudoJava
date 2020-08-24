@@ -7,6 +7,8 @@ public class Conta {
     double saldo;
     double limite;
     String nome;
+    protected int numero;
+
 
     // metodo saca
     public void saca(double valor) {
